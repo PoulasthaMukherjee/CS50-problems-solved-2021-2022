@@ -1,0 +1,23 @@
+#name {
+    font-family: monospace;
+    font-size: 50px;
+    color: red;
+    opacity: 0.5;
+}
+
+.about {
+    font-family: Helvetica, sans-serif;
+
+}
+
+h1 {
+    color: red;
+
+}
+
+li:hover {
+    color: blue;
+}
+h4.about {
+    color: orange;
+}

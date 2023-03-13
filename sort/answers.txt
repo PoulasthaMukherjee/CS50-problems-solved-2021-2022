@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because it took the least time to sort the already sorted text i.e. Omega(n) or BEST CASE is the least. 
+
+sort2 uses: Merged Sort
+
+How do you know?: Because it took almost the same time to sort the already sorted {Omega(n)} or BEST CASE and reversd text {O(n)} or WORST CASE and took less time for the same than sort3.
+
+sort3 uses: Selection Sort
+
+How do you know?: Because it took almost the same time to sort the already sorted {Omega(n)} or BEST CASE and reversd text {O(n)} or WORST CASE and took more time for the same than sort2.
